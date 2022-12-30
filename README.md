@@ -1,1 +1,1 @@
-# SolidityTutorials
+# solidity studies
